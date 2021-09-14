@@ -1,6 +1,6 @@
 # Solutions portfolio
 
-I've built several open sourced solutions. Have a look at what I've built and see if there's anything that
+I've built several open sourced solutions. Have a look at what I've created and see if there's anything that
 would work for you or your organization.
 
 ## Google Cloud Platform solutions
@@ -49,6 +49,8 @@ Collect all your Google Cloud Storage metadata from your organization and build 
 running under different users on a single Compute Instance server. It uses the `/proc` filesystem's list of TCP 
 connections to find the local identity of the workload and maps any gcloud/Cloud SDK/curl requests to another 
 service account.
+
+[Link to repository](https://github.com/rosmo/professional-services/tree/per-user-metadata-proxy/tools/per-user-metadata-proxy)
 
 ### gsnapshot (to be published)
 
