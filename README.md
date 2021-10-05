@@ -103,5 +103,12 @@ Creates randomness with a predefined seed for a JMeter run.
 
 [Link to repository](https://github.com/rosmo/jmeter-plugins)
 
+## Contributions to open source
 
-
+Projects I've contributed to: [amitbet/vncproxy](https://github.com/amitbet/vncproxy), [noVNC/noVNC](https://github.com/novnc/noVNC),
+[hashicorp/packer](https://github.com/hashicorp/packer), [ansible/ansible](https://github.com/ansible/ansible), [apache/beam](https://github.com/apache/beam),
+[spotify/annoy](https://github.com/spotify/annoy), [terraform-google-modules/cloud-foundation-fabric](https://github.com/terraform-google-modules/cloud-foundation-fabric),
+[terraform-google-modules/terraform-google-vpc-service-controls](https://github.com/terraform-google-modules/terraform-google-vpc-service-controls),
+[GoogleCloudPlatform/policy-library](https://github.com/GoogleCloudPlatform/policy-library), [rocket-internet-berlin/RocketGoRedSVD](https://github.com/rocket-internet-berlin/RocketGoRedSVD),
+[boto/boto](https://github.com/boto/boto), [wcgallego/pecl-gearman](https://github.com/wcgallego/pecl-gearman), [phpv8/v8js](https://github.com/phpv8/v8js),
+[php/php-src](https://github.com/php/php-src), ...
