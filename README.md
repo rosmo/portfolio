@@ -68,6 +68,16 @@ for example to transport audit logs to security products that support reading sy
 
 [Link to repository](https://github.com/rosmo/pubsub2syslog)
 
+## Google Cloud Platform examples
+
+### Long running Cloud Run functions
+
+Example on how to run long-running Cloud Run functions, with discussion on alternative approaches
+and limitations.
+
+[Link to article](https://taneli-leppa.medium.com/long-running-cloud-run-functions-e13b00ff9585)
+[Link to repository](https://github.com/rosmo/long-cloud-run)
+
 ### Contributions
 
 #### GKE Autoneg
@@ -82,6 +92,14 @@ Uses Autoneg and GCP load balancing components to run a Gitlab installation thro
 external HTTP(S) load balancing and global TCP proxy for SSH.
 
 [Link to repository](https://github.com/rosmo/terraform-google-gke-gitlab/tree/gclb-autoneg)
+
+#### Cloud Foundation Fabric
+
+This repository provides end-to-end examples and a suite of Terraform modules for Google Cloud
+for rapid prototyping.
+
+[Link to repository](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
+
 
 ## Other solutions
 
