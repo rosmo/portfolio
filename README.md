@@ -68,6 +68,13 @@ for example to transport audit logs to security products that support reading sy
 
 [Link to repository](https://github.com/rosmo/pubsub2syslog)
 
+### Lambda compatibility for Cloud Run
+
+Running unmodified AWS Lambda functions on Cloud Run? With credentials? It's possible by using
+a Lambda Runtime API emulator written in Go.
+
+[Link to repository](https://github.com/GoogleCloudPlatform/professional-services/tree/main/tools/lambda-compat)
+
 ## Google Cloud Platform examples
 
 ### Long running Cloud Run functions
