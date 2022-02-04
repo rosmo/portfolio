@@ -52,14 +52,14 @@ service account.
 
 [Link to repository](https://github.com/rosmo/professional-services/tree/per-user-metadata-proxy/tools/per-user-metadata-proxy)
 
-### gsnapshot (to be published)
+### gsnapshot
 
 ![gsnapshot example](images/gsnapshot.png)
 
 `gsnapshot` provides a more traditional experience in managing VM instance level snapshots, rollbacks
 and commits.
 
-[Link to repository](https://github.com/rosmo/professional-services/tree/gsnapshot/tools/gsnapshot)
+[Link to repository]( https://github.com/GoogleCloudPlatform/professional-services/tree/main/tools/gsnapshot)
 
 ### pubsub2syslog
 
