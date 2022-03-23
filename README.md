@@ -5,6 +5,12 @@ would work for you or your organization.
 
 ## Google Cloud Platform solutions
 
+### Cloud Instance mapper
+
+Cloud Instance mapper creates a score-based mapping of different cloud IaaS VM instance types from EC2 and Azure Compute to Google Cloud Platform instance types, based on fresh data fetched from APIs. You can also map AWS RDS instances to Google Cloud SQL database types.
+
+[Link to repository](https://github.com/GoogleCloudPlatform/professional-services/tree/main/tools/instance_mapper)
+
 ### gcpviz
 
 ![gcpviz example](images/gcpviz.png)
