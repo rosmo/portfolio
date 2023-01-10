@@ -28,7 +28,7 @@ Pubsub2Inbox is a swiss-army knife for reacting to Pub/Sub message. It can perfo
 sending out emails using your own SMTP servers, copying files between buckets, running BigQuery queries, turning
 single messages into multiple ones (fan out), etc.
 
-[Link to repository](https://github.com/GoogleCloudPlatform/professional-services/tree/main/tools/pubsub2inbox)
+[Link to repository](https://github.com/GoogleCloudPlatform/pubsub2inbox)
 
 ### Custom Role Manager
 
