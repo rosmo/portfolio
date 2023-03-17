@@ -81,6 +81,15 @@ a Lambda Runtime API emulator written in Go.
 
 [Link to repository](https://github.com/GoogleCloudPlatform/professional-services/tree/main/tools/lambda-compat)
 
+## Terraform solutions
+
+## Persistent counter provider
+
+A provider for keeping persistent counters for resources.
+
+[Link to repository](https://github.com/rosmo/terraform-provider-persistent)
+[Link to Terraform registry](https://registry.terraform.io/providers/rosmo/persistent/latest)
+
 ## Google Cloud Platform examples
 
 ### Long running Cloud Run functions
