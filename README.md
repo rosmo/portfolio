@@ -83,7 +83,7 @@ a Lambda Runtime API emulator written in Go.
 
 ## Terraform solutions
 
-## Persistent counter provider
+### Persistent counter provider
 
 A provider for keeping persistent counters for resources.
 
