@@ -3,6 +3,10 @@
 I've built several open sourced solutions. Have a look at what I've created and see if there's anything that
 would work for you or your organization.
 
+## Medium
+
+For my articles, see [taneli-leppa.medium.com](https://taneli-leppa.medium.com/). 
+
 ## Google Cloud Platform solutions
 
 ### Cloud Instance mapper
