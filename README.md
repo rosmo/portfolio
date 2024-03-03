@@ -126,8 +126,31 @@ for rapid prototyping.
 
 [Link to repository](https://github.com/GoogleCloudPlatform/cloud-foundation-fabric)
 
-
 ## Other solutions
+
+### ESP-IDF projects
+
+When building for ESP32, I always pick ESP-IDF. I've built a few projects:
+
+![ESP-IDF projects](images/esp-idf-projects.jpg)
+
+#### Plant monitoring
+
+Reads 3 sensors via ADC and sends the information directly into InfluxDB.
+
+[Link to repository](https://github.com/rosmo/plant-monitoring)
+
+### CircleMonitor
+
+A cheap ESP32 "smartwatch" turned into a wireless PC hardware monitor, leveraging [LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor).
+
+[Link to repository](https://github.com/rosmo/CircleMonitor)
+
+### OVstops
+
+Built for M5Paper and its ePaper display, pick up to 3 different stops and lines from [ovapi.nl](https://ovapi.nl) and show the next departures.
+
+[Link to repository](https://github.com/rosmo/m5paper-ovstops)
 
 ### go-hidproxy
 
