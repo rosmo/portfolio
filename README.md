@@ -130,9 +130,15 @@ for rapid prototyping.
 
 ### ESP-IDF projects
 
-When building for ESP32, I always pick ESP-IDF. I've built a few projects:
+When building for ESP32, I always pick ESP-IDF. Being a home automation enthuasist, I tend to veer towards
+Zigbee solutions - commercial and homebrewed. I've built a few projects:
 
 ![ESP-IDF projects](images/esp-idf-projects.jpg)
+
+#### Spaceballs! - The Switch
+
+[Medium article: Spaceballs — The Switch! Zigbee’ing a device](https://taneli-leppa.medium.com/spaceballs-the-switch-zigbeeing-a-device-fd2f5d3ee907)
+[Link to repository](https://github.com/rosmo/spaceballs-switch)
 
 #### Plant monitoring
 
